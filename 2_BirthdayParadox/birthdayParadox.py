@@ -41,8 +41,8 @@ def getMatch(birthdays):
 # Display the intro:
 print('''Birthday Paradox, by Al Sweigart, recreated by Scarlett Wright
 
-The Birthday Paradox shows us that ina group of N people, the odds that
-two of them have matchingbirthdays is surprisingly large. This program
+The Birthday Paradox shows us that in a group of N people, the odds that
+two of them have matching birthdays is surprisingly large. This program
 does a Monte Carlo simulation (that is, repeated random simulations) to
 explore this concept
 
