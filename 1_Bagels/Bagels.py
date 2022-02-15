@@ -60,7 +60,7 @@ def main():
 
 def getSecretNum():
     """Returns a string made up of NUM_DIGITS unque random digits."""
-    # Creates a lst of digtis 0 to 9
+    # Creates a list of digits 0 to 9
     numbers = list('0123456889')
     # Shuffles them into a random order using random
     random.shuffle(numbers)
